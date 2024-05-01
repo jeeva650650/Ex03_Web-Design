@@ -139,8 +139,7 @@
 </html
 ```
 ## OUTPUT
-![Uploading Screenshot (829).png…]()
-
+![Screenshot (829)](https://github.com/jeeva650650/Ex03_Web-Design/assets/167397876/52eb88c1-c692-4782-8271-d28a2ac990fb)
 
 ## RESULT
  Slot time table is created successfully.
